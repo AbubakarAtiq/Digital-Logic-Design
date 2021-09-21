@@ -1,0 +1,4 @@
+1. AND
+2. OR
+3. NOT
+see page no.28 of the book
